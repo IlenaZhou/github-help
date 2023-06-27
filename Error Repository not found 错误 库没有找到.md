@@ -5,7 +5,7 @@ Error:Repository not found 错误 库没有找到
 
 ##Check your spelling 检查拼写
 
-名字拼错很常见，比如 你拷贝 `git@github.com:user/repo.git`的项目库， 但是 真是的库名可能是 `User/Repo`,你会收到这样的错误。
+名字拼错很常见，比如 你拷贝 `git@github.com:user/repo.git`的项目库， 但是 真实的库名可能是 `User/Repo`,你会收到这样的错误。
 
 为了避免这类错误，你直接拷贝 URL 得了，别手打。
 
